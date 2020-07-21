@@ -26,3 +26,10 @@ https://www.kaggle.com/gpiosenka/100-bird-species?
       
       Este documento contiene el código para el entrenamiento y prueba de la red neuronal convolucional
    
+3. ...ConfusionMatrix.ipynb
+
+      Documento de trabajo de jupyter notebook donde calculamos las métricas de desempeño y matriz de confusión
+
+4. ... BirdClass.iphnb
+
+      Documento de trabajo de jupyter notebook para entrenamiento del clasificador (actualizado)
