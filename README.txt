@@ -33,6 +33,3 @@ https://www.kaggle.com/gpiosenka/100-bird-species?
 4. ... BirdClass.iphnb
 
       Documento de trabajo de jupyter notebook para entrenamiento del clasificador (actualizado)
-      
-# **Canal de Youtube**
-[Click aquì pare ver mi canal de YOUTUBE](https://www.youtube.com/channel/UCr_dJOULDvSXMHA1PSHy2rg)
