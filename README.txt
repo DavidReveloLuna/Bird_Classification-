@@ -1,4 +1,9 @@
+Nota: Si obtienen un error en los import keras, anteponer tensorflow. antes de cada import. 
 
+Ejm:  from keras.layers import Dropout
+      from tensorflow.keras.layers import Dropout
+      
+      
 # Bird species classification
 
 En este proyecto realizamos un modelo de clasificación de imágenes basado en la red VGG16 usando transfer learning y data augmentation
